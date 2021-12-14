@@ -1,5 +1,7 @@
 Land Cover Change in Cedar Rapids due to 2020 Derecho
 
+Full Report with tables and images available above as .docx
+
 
 Abstract
 
@@ -38,8 +40,7 @@ Both tables were exported as .csv filetypes using write_csv method.
 
 Import into Tableau and Creation of Dashboard
 
-The classification change and class area tables were imported into Tableau and a 4-figure dashboard was created. A bar chart of landcover area were created to show change of class areas from 2019 to 2021. A bar chart was created to show percentage change of each classification during this time period. Two treemaps were created. One to highlight each class in 2019, and the proportion that changed to different classes in 2021. The other treemap highlights each class in 2021 and shows where 
-
+The classification change and class area tables were imported into Tableau and a 4-figure dashboard was created. A bar chart of landcover area were created to show change of class areas from 2019 to 2021. A bar chart was created to show percentage change of each classification during this time period. Two treemaps were created. One to highlight each class in 2019, and the proportion that changed to different classes in 2021. The other treemap highlights each class in 2021 and shows what proportion of 2019 land cover classes make up each 2021 class. 
 
 Results and Conclusions
 
