@@ -2,6 +2,9 @@ Land Cover Change in Cedar Rapids due to 2020 Derecho
 
 Full Report with tables and images available above as .docx
 
+Tableau Dashboard found at link below
+https://public.tableau.com/app/profile/david.hyon/viz/Midwest2020DerechoLandCoverChange/Dashboard1
+
 
 Abstract
 
